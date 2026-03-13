@@ -8,8 +8,9 @@ This repository documents the pipeline used for assembling the genomes of Ralsto
 
 * **`QC-FastQC/`**: Quality reports of sequencing reads (.html files).
 
-* **`Assembly-SPADEs/`**: Scripts and logs of the initial assembly using only short reads (Illumina).
-
+* **`Assembly-SPADEs-Illumina_novogene/`**: Scripts and logs of the initial assembly using only short reads (Illumina-novogene).
+* **`Assembly-SPADEs-Illumina_SENASICA/`**: Scripts and logs of the initial assembly using only short reads (Illumina-SENASICA).
+  
 * **`Assembly-Unicycler/`**: Results of the hybrid assembly to obtain circular and complete genomes.
 
 * **`Evaluation-QUAST/`**: Statistical reports to compare the quality between assemblers.
