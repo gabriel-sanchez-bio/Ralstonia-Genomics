@@ -1,0 +1,4 @@
+
+=== Error correction and assembling warnings:
+ * 0:05:17.487  1159M / 4486M WARN    General                 (launcher.cpp              : 181)   Your data seems to have high uniform coverage depth. It is strongly recommended to use --isolate option.
+======= Warnings saved to /home/gabrielsanchezgarcia/Gabriel/Terminal/Ensamblajes/0720_illumina_SENASICA/warnings.log
