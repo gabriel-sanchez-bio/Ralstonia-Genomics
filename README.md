@@ -1,6 +1,6 @@
 # Ralstonia-Genomics 🧬
 Bioinformatics pipeline for de novo and hybrid genomic assembly of Ralstonia strains using Illumina and Long Read Technology. Includes quality control and evaluation of assembly metrics.
-# Ralstonia Genome Assembly 🧬🔋
+# Ralstonia Genome Assembly 
 
 This repository documents the pipeline used for assembling the genomes of Ralstonia strains (SENASICA). The project covers everything from quality control of raw reads to the generation of high-quality hybrid assemblies.
 
@@ -34,7 +34,7 @@ The **QUAST** tool was used to generate a comparative table of metrics:
 
 * **L50**: Minimum number of contigs that cover 50% of the genome.
 
-## 📚 Citations
+## Citations
 * **SPADEs**: Bankevich, A., et al. (2012).
 
 * **Unicycler**: Wick, R. R., et al. (2017).
