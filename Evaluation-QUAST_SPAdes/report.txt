@@ -1,0 +1,25 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    0720_illumina_SENASICA_scaffolds  0720_ILLUMINA_NOVOGENE_ENSAMBLAJE_scaffolds
+# contigs (>= 0 bp)         240                               271                                        
+# contigs (>= 1000 bp)      161                               162                                        
+# contigs (>= 5000 bp)      116                               112                                        
+# contigs (>= 10000 bp)     91                                88                                         
+# contigs (>= 25000 bp)     69                                68                                         
+# contigs (>= 50000 bp)     38                                40                                         
+Total length (>= 0 bp)      5540941                           5518830                                    
+Total length (>= 1000 bp)   5509133                           5484746                                    
+Total length (>= 5000 bp)   5415179                           5373273                                    
+Total length (>= 10000 bp)  5251207                           5215759                                    
+Total length (>= 25000 bp)  4864576                           4870789                                    
+Total length (>= 50000 bp)  3702869                           3840441                                    
+# contigs                   181                               179                                        
+Largest contig              277072                            276972                                     
+Total length                5523844                           5497884                                    
+GC (%)                      66.57                             66.60                                      
+N50                         76083                             76773                                      
+N90                         20672                             21019                                      
+auN                         89663.8                           89446.7                                    
+L50                         23                                23                                         
+L90                         74                                72                                         
+# N's per 100 kbp           5.43                              7.28                                       
